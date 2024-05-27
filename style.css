@@ -1,0 +1,31 @@
+body{
+    background-color: #C0C0C0;
+}
+.container1{
+    width:30%;
+    border:1px solid white;
+    background-color: aliceblue;
+    box-shadow: 0px 4px 9px 2px;
+   margin-top: 20px;
+}
+
+.form-control{
+    width:80%;
+}
+
+.totalform{
+    margin:20px;
+    margin-left: 50px;
+}
+
+.totalmarks{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.text{
+    margin:20px;
+    
+}
+.btn{
+    width: 200px;
+}
